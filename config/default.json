@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://dev:dev1234@tinderclone.u5dpn.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://dev:dev1234@tinderclone.u5dpn.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
