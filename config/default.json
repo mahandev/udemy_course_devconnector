@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://dev:dev1234@tinderclone.u5dpn.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"cb527c5d53a894ab3e44",
+    "githubSecret":"39891cc31de0e4f3fa0801223ed4b12d2c5f651d"
 }
